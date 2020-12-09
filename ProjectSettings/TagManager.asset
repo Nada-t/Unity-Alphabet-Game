@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - Numbers
+  - Play
+  - GamesMenu
+  - MainMenu
+  - NumberTest
+  - NextTxt
+  - apple1
+  - apple2
+  - apple3
+  - apple4
+  - apple5
+  - apple6
+  - apple7
+  - apple8
+  - apple9
+  - ballon
+  - BallonGame
+  - VolumSlider
+  - questionButton
+  - LettersGame
+  - quit
+  - PrevLetter
+  - NextLetter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
